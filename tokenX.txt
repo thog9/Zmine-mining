@@ -1,0 +1,12 @@
+# ============================================================
+#  TOKEN X - List of X (Twitter) account tokens
+# ============================================================
+# Used for: connectX-zmine.py  | socialX.py
+#
+#   TOKEN X 1          ->  auth_token:ct0
+#   TOKEN X 2          ->  auth_token|ct0
+#
+# - One X account per line
+# - The order of lines must match the order of accounts in accounts.json
+# - Lines starting with # are comments; empty lines are ignored
+# ============================================================
