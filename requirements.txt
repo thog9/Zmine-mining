@@ -1,0 +1,5 @@
+inquirer
+colorama
+aiohttp
+aiohttp_socks
+yarl
